@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+body{
+    background-color: bisque;
+}
+
+
+.main{
+    margin: 30px auto;
+    max-width: 550px;
+    border-radius: 10px;
+}
+
+.Top-section{
+    color: hsl(179, 62%, 43%);
+    background-color: white;
+    padding: 15px 10px;
+}
+
+.money-back{
+    color:  hsl(71, 73%, 54%);
+    font-weight: 600px;    
+    font-size: 15px;
+}
+
+.Buttom-section{
+    display: flex;
+    background-color: hsl(179, 62%, 43%)
+}
+
+.Buttom-section{
+    padding: 15px 10px;
+}
+.Subscription-section {
+
+}
+
+h3{
+    padding-left: 30px;
+}
+
+.money-back {
+    padding-left: 30px;
+}
+
+.access {
+    color: gray;
+    font-size: 12px;
+    width: 30pc;
+    padding-left: 30px;
+}
+
+.Monthly-subscription {
+   
+}
+
+.CTA {
+    width: 70%;
+    margin-top: 7px;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    padding: 10px 15px;
+    background-color: hsl(71, 73%, 54%);
+}
+
+.why-us-section,
+.Subscription-section {
+    width: 50%;
+}
+
+.month {
+    display: inline-flex;
+    font-size: 8px;
+    color: #ffffff;
+}
+
+.white-texta {
+    font-weight: 700;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+p {
+    font-size: 10px;
+    color: #ffffff;
+}
+
+.Buttom-section {
+    padding-left: 30px;
+}
+
+.Monthly-subscription {
+    font-weight: 400;
+    line-height: 150%;
+    color: white;
+    font-size: 16px;
+}
+.buttom-heading {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 200%;
+    color: white;
+    
+}
+
+.white-text {
+    font-size: 10px;
+    color: white;
+}
